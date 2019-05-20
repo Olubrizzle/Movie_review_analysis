@@ -4,4 +4,4 @@ NLP - Natural Language Processing is a subfield in data/computer science that de
 
 The data was sourced from kaggle. It consists of 50000 movie reviews, 25000 of the reviews in the train data have labeled 'sentiment' and remaining 25000 of the review are in the test data which contains only the 'id' and the 'review' for each of the review.
 
-I applied random forest and tensorflow logistic model, both codes are in separate files
+I applied random forest classifier and tensorflow logistic model, both codes are in separate files
